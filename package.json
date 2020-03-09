@@ -1,7 +1,7 @@
 {
-  "name": "lotide",
+  "name": "lotide-a-lodash-clone-by-hh",
   "version": "1.0.0",
-  "description": "",
+  "description": "a mini clone of the Lodash library",
   "main": "assertArraysEqual.js",
   "directories": {
     "test": "test"
@@ -19,7 +19,7 @@
     "type": "git",
     "url": "git+https://github.com/headhuntar/lotide.git"
   },
-  "author": "",
+  "author": "headhuntar",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/headhuntar/lotide/issues"
